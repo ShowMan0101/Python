@@ -12,6 +12,7 @@ class DynamicPricingSystem:
             "product_1": 95,
             "product_2": 190,
             "product_3": 310,
+            "pruduct-4": 590
         }
 
     def adjust_price(self, product_name):
