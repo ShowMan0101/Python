@@ -11,8 +11,7 @@ class DynamicPricingSystem:
         self.competitor_prices = {
             "product_1": 95,
             "product_2": 190,
-            "product_3": 310,
-            "pruduct-4": 590
+            "product_3": 310
         }
 
     def adjust_price(self, product_name):
